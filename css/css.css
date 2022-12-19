@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(45, 46, 53, 255);
+}
+
+.maintitle{
+    color: white;
+    text-align: center;
+    font-size: 96px;
+    font-weight: bold;
+}
+
+.title{
+    color: white;
+    font-family: font-001;
+}
