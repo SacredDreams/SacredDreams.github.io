@@ -5,6 +5,7 @@ body {
 
 html {
     border: 1px solid red;
+    min-width: 1200px;
     margin: 0 auto;
 }
 
@@ -25,6 +26,7 @@ html {
 
 .nav ul {
     text-align: center;
+    white-space: nowrap;
     padding: 0px 0px;
     margin: 0 auto;
 }
@@ -45,6 +47,7 @@ html {
     font-family: Microsoft YaHei UI;
     font-size: 96px;
     font-weight: bold;
+    white-space: nowrap;
     padding: 100px;
     margin: 0;
     background-image: url(../images/header/background.png);
