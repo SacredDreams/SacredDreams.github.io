@@ -1,15 +1,66 @@
-body{
-    background-color: rgba(45, 46, 53, 255);
+body {
+    /*background-color: darkgrey;/*rgba(25, 39, 65, 255);*/
+    margin: 0px;
 }
 
-.maintitle{
-    color: white;
+html {
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+/*nav部分的样式*/
+.nav {
+    margin: 0 auto;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav a :hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+.nav ul {
     text-align: center;
+    padding: 0px 0px;
+    margin: 0 auto;
+}
+
+.nav li {
+    display: inline-block;
+    font-family: font-001;
+    font-size: 20px;
+    width: 200px;
+    padding: 15px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+/*header部分的样式*/
+.header {
+    text-align: center;
+    font-family: Microsoft YaHei UI;
     font-size: 96px;
     font-weight: bold;
+    padding: 100px;
+    margin: 0;
+    background-image: url(../images/header/background.png);
+    background-position: center;
+    background-size: cover;
 }
 
-.title{
+.header-div {
+    padding: 0px;
+    margin: 0 auto;
+}
+.title {
     color: white;
     font-family: font-001;
+    font-size: 24px;
 }
+
+
+
