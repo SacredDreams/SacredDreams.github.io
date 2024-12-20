@@ -1,4 +1,4 @@
 # SacredDreams.github.io
 个人网站
-# C++ Notes
-[C++ 学习笔记](https://github.com/SacredDreams/SacredDreams.github.io/blob/main/C%2B%2B%20Notes.md)
+# 2024-2025年度赵语十级模拟试卷
+[点击此处查看试卷](./赵语十级考试模拟卷.htm)
