@@ -1,4 +1,4 @@
-# 欢迎来到xiaocz-wu.github.io
+# xiaocz-wu.github.io
 这里会发布一些作品，包括各种整活，持续更新中，更多内容敬请期待！
 
 # 已发布的Minecraft模组
