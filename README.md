@@ -1,7 +1,8 @@
-# xiaocz-wu.github.io
-这里会发布一些作品，包括各种整活，持续更新中，更多内容敬请期待！
+# 网站介绍
+这里会发布一些作品，包括各种整活，**仅供研究、学习使用，不可用于其他用途！**  
+作品持续更新中，更多内容敬请期待！
 
-# 已发布的Minecraft模组
+# Minecraft模组
 [OldDenCounting](https://github.com/XiaoCZ-Wu/MinecraftMod-OldDenCounting) 更新至v1.0.0  
 [SmallPotato](https://github.com/XiaoCZ-Wu/MinecraftMod-SmallPotato) 更新至v1.0.0  
 [敬请期待]
